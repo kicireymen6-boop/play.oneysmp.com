@@ -1,0 +1,8 @@
+{
+  "name": "Remix ONEY SMP - Minecraft Sunucusu",
+  "description": "ONEY SMP resmi topluluk web sitesi. Sunucu adresi, canlı oyuncu durumu, ekip bilgileri ve hayatta kalma özellikleri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
